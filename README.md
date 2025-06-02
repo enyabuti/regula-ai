@@ -1,1 +1,1 @@
-# regular-ai
+# regula-ai
